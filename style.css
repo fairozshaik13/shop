@@ -172,7 +172,7 @@ body  {
 } 
 
 #product1 .pro {
-    width: 23%;
+    width: 18%;
     min-height: 250px;
     padding: 10px 12px;
     border: 1px solid #cce7d0;
@@ -1245,6 +1245,384 @@ footer .copyright {
 #prodetails .fifteen-pro-details span {
     line-height: 25px;
 }
+ 
+
+/* sixteen  product */
+
+#prodetails {
+    display: flex;
+    margin-top: 20px;
+}
+
+#prodetails .sixteen-pro-image {
+    width: 40%;
+    margin-right: 50px;
+}
+
+.small-img-group {
+    display: flex;
+    justify-content: space-between;
+}
+
+.small-img-col {
+    flex-basis: 24%;
+    cursor:pointer;
+}
+
+#prodetails .sixteen-pro-details {
+    width: 50%;
+    padding-top: 30px;
+}
+
+#prodetails .sixteen-pro-details h4 {
+    padding: 20px 0 10px 0;
+}
+
+#prodetails .sixteen-pro-details h2 {
+    font-size: 26px;
+}
+
+#prodetails .sixteen-pro-details select {
+    display: block;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+}
+
+#prodetails .sixteen-pro-details input {
+    width: 50px;
+    height: 47px;
+    padding-left: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+#prodetails .sixteen-pro-details input:focus {
+    outline: none;
+}
+
+#prodetails .sixteen-pro-details button {
+    background-color: #088178;
+    color: #fff;
+}
+
+#prodetails .sixteen-pro-details span {
+    line-height: 25px;
+}
+
+
+/* seventeen  product */
+
+#prodetails {
+    display: flex;
+    margin-top: 20px;
+}
+
+#prodetails .seventeen-pro-image {
+    width: 40%;
+    margin-right: 50px;
+}
+
+.small-img-group {
+    display: flex;
+    justify-content: space-between;
+}
+
+.small-img-col {
+    flex-basis: 24%;
+    cursor:pointer;
+}
+
+#prodetails .seventeen-pro-details {
+    width: 50%;
+    padding-top: 30px;
+}
+
+#prodetails .seventeen-pro-details h4 {
+    padding: 20px 0 10px 0;
+}
+
+#prodetails .seventeen-pro-details h2 {
+    font-size: 26px;
+}
+
+#prodetails .seventeen-pro-details select {
+    display: block;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+}
+
+#prodetails .seventeen-pro-details input {
+    width: 50px;
+    height: 47px;
+    padding-left: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+#prodetails .seventeen-pro-details input:focus {
+    outline: none;
+}
+
+#prodetails .seventeen-pro-details button {
+    background-color: #088178;
+    color: #fff;
+}
+
+#prodetails .seventeen-pro-details span {
+    line-height: 25px;
+}
+
+
+/* eighteen  product */
+
+#prodetails {
+    display: flex;
+    margin-top: 20px;
+}
+
+#prodetails .eighteen-pro-image {
+    width: 40%;
+    margin-right: 50px;
+}
+
+.small-img-group {
+    display: flex;
+    justify-content: space-between;
+}
+
+.small-img-col {
+    flex-basis: 24%;
+    cursor:pointer;
+}
+
+#prodetails .eighteen-pro-details {
+    width: 50%;
+    padding-top: 30px;
+}
+
+#prodetails .eighteen-pro-details h4 {
+    padding: 20px 0 10px 0;
+}
+
+#prodetails .eighteen-pro-details h2 {
+    font-size: 26px;
+}
+
+#prodetails .eighteen-pro-details select {
+    display: block;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+}
+
+#prodetails .eighteen-pro-details input {
+    width: 50px;
+    height: 47px;
+    padding-left: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+#prodetails .eighteen-pro-details input:focus {
+    outline: none;
+}
+
+#prodetails .eighteen-pro-details button {
+    background-color: #088178;
+    color: #fff;
+}
+
+#prodetails .eighteen-pro-details span {
+    line-height: 25px;
+}
+
+
+/* nineteen  product */
+
+#prodetails {
+    display: flex;
+    margin-top: 20px;
+}
+
+#prodetails .nineteen-pro-image {
+    width: 40%;
+    margin-right: 50px;
+}
+
+.small-img-group {
+    display: flex;
+    justify-content: space-between;
+}
+
+.small-img-col {
+    flex-basis: 24%;
+    cursor:pointer;
+}
+
+#prodetails .nineteen-pro-details {
+    width: 50%;
+    padding-top: 30px;
+}
+
+#prodetails .nineteen-pro-details h4 {
+    padding: 20px 0 10px 0;
+}
+
+#prodetails .nineteen-pro-details h2 {
+    font-size: 26px;
+}
+
+#prodetails .nineteen-pro-details select {
+    display: block;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+}
+
+#prodetails .nineteen-pro-details input {
+    width: 50px;
+    height: 47px;
+    padding-left: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+#prodetails .nineteen-pro-details input:focus {
+    outline: none;
+}
+
+#prodetails .nineteen-pro-details button {
+    background-color: #088178;
+    color: #fff;
+}
+
+#prodetails .nineteen-pro-details span {
+    line-height: 25px;
+}
+
+
+/* twenty  product */
+
+#prodetails {
+    display: flex;
+    margin-top: 20px;
+}
+
+#prodetails .twenty-pro-image {
+    width: 40%;
+    margin-right: 50px;
+}
+
+.small-img-group {
+    display: flex;
+    justify-content: space-between;
+}
+
+.small-img-col {
+    flex-basis: 24%;
+    cursor:pointer;
+}
+
+#prodetails .twenty-pro-details {
+    width: 50%;
+    padding-top: 30px;
+}
+
+#prodetails .twenty-pro-details h4 {
+    padding: 20px 0 10px 0;
+}
+
+#prodetails .twenty-pro-details h2 {
+    font-size: 26px;
+}
+
+#prodetails .twenty-pro-details select {
+    display: block;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+}
+
+#prodetails .twenty-pro-details input {
+    width: 50px;
+    height: 47px;
+    padding-left: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+#prodetails .twenty-pro-details input:focus {
+    outline: none;
+}
+
+#prodetails .twenty-pro-details button {
+    background-color: #088178;
+    color: #fff;
+}
+
+#prodetails .twenty-pro-details span {
+    line-height: 25px;
+}
+
+
+/* twentyone product */
+
+#prodetails {
+    display: flex;
+    margin-top: 20px;
+}
+
+#prodetails .twentyone-pro-image {
+    width: 40%;
+    margin-right: 50px;
+}
+
+.small-img-group {
+    display: flex;
+    justify-content: space-between;
+}
+
+.small-img-col {
+    flex-basis: 24%;
+    cursor:pointer;
+}
+
+#prodetails .twentyone-pro-details {
+    width: 50%;
+    padding-top: 30px;
+}
+
+#prodetails .twentyone-pro-details h4 {
+    padding: 20px 0 10px 0;
+}
+
+#prodetails .twentyone-pro-details h2 {
+    font-size: 26px;
+}
+
+#prodetails .twentyone-pro-details select {
+    display: block;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+}
+
+#prodetails .twentyone-pro-details input {
+    width: 50px;
+    height: 47px;
+    padding-left: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+#prodetails .twentyone-pro-details input:focus {
+    outline: none;
+}
+
+#prodetails .twentyone-pro-details button {
+    background-color: #088178;
+    color: #fff;
+}
+
+#prodetails .twentyone-pro-details span {
+    line-height: 25px;
+}
 
 
   
@@ -1273,7 +1651,7 @@ footer .copyright {
         margin: 0 0 15px 0;
     }
     #product1 .pro {
-        width: 100%;
+        width: 45%;
     }
     #banner {
         height: 145px;
@@ -1555,5 +1933,95 @@ footer .copyright {
      width: 100%;
     };
 
+     
+     /* seventeen product */
+     #prodetails {
+        display: flex;
+        flex-direction: column;
+        }
+        #prodetails  {
+           width: 100%;
+        margin-right: 0px;
+       }
+        #prodetails .sixteen-pro-image {
+        width: 100%;
+        margin-right: 0px;
+       }
+        #prodetails .sixteen-pro-details {
+        width: 100%;
+       };
+
+        
+     /* eighteen product */
+     #prodetails {
+        display: flex;
+        flex-direction: column;
+        }
+        #prodetails  {
+           width: 100%;
+        margin-right: 0px;
+       }
+        #prodetails .sixteen-pro-image {
+        width: 100%;
+        margin-right: 0px;
+       }
+        #prodetails .sixteen-pro-details {
+        width: 100%;
+       };
+
+        
+     /* nineteen product */
+     #prodetails {
+        display: flex;
+        flex-direction: column;
+        }
+        #prodetails  {
+           width: 100%;
+        margin-right: 0px;
+       }
+        #prodetails .sixteen-pro-image {
+        width: 100%;
+        margin-right: 0px;
+       }
+        #prodetails .sixteen-pro-details {
+        width: 100%;
+       };
+
+        
+     /* twenty product */
+     #prodetails {
+        display: flex;
+        flex-direction: column;
+        }
+        #prodetails  {
+           width: 100%;
+        margin-right: 0px;
+       }
+        #prodetails .sixteen-pro-image {
+        width: 100%;
+        margin-right: 0px;
+       }
+        #prodetails .sixteen-pro-details {
+        width: 100%;
+       };
+
+        
+     /* twentyone product */
+     #prodetails {
+        display: flex;
+        flex-direction: column;
+        }
+        #prodetails  {
+           width: 100%;
+        margin-right: 0px;
+       }
+        #prodetails .sixteen-pro-image {
+        width: 100%;
+        margin-right: 0px;
+       }
+        #prodetails .sixteen-pro-details {
+        width: 100%;
+       };
+   
     
 }
