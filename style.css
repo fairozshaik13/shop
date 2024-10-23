@@ -1863,7 +1863,7 @@ footer .copyright {
        }
        #prodetails .twevel-pro-details {
         width: 100%;
-       }
+    }
        
      /* thirteen product */
      #prodetails {
@@ -1897,9 +1897,9 @@ footer .copyright {
        }
        #prodetails .fourteen-pro-details {
         width: 100%;
-       }
+    }
         
-       /* fifteen product */
+    /* fifteen product */
       #prodetails {
        display: flex;
        flex-direction: column;
@@ -1914,9 +1914,9 @@ footer .copyright {
       }
       #prodetails .fifteen-pro-details {
        width: 100%;
-      }
+    }
       
-     /* sixteen product */
+    /* sixteen product */
      #prodetails {
      display: flex;
      flex-direction: column;
@@ -1924,17 +1924,17 @@ footer .copyright {
      #prodetails  {
         width: 100%;
      margin-right: 0px;
-    }
+     }
      #prodetails .sixteen-pro-image {
      width: 100%;
      margin-right: 0px;
-    }
+     }
      #prodetails .sixteen-pro-details {
      width: 100%;
     };
 
      
-     /* seventeen product */
+    /* seventeen product */
      #prodetails {
         display: flex;
         flex-direction: column;
@@ -1949,10 +1949,10 @@ footer .copyright {
        }
         #prodetails .sixteen-pro-details {
         width: 100%;
-       };
+    };
 
         
-     /* eighteen product */
+    /* eighteen product */
      #prodetails {
         display: flex;
         flex-direction: column;
@@ -1967,10 +1967,10 @@ footer .copyright {
        }
         #prodetails .sixteen-pro-details {
         width: 100%;
-       };
+    };
 
         
-     /* nineteen product */
+    /* nineteen product */
      #prodetails {
         display: flex;
         flex-direction: column;
@@ -1985,7 +1985,7 @@ footer .copyright {
        }
         #prodetails .sixteen-pro-details {
         width: 100%;
-       };
+    };
 
         
      /* twenty product */
@@ -2003,7 +2003,7 @@ footer .copyright {
        }
         #prodetails .sixteen-pro-details {
         width: 100%;
-       };
+    };
 
         
      /* twentyone product */
@@ -2021,7 +2021,7 @@ footer .copyright {
        }
         #prodetails .sixteen-pro-details {
         width: 100%;
-       };
+    };
    
     
 }
