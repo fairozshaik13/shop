@@ -1677,20 +1677,20 @@ footer .copyright {
    
     /* second product */
     #prodetails {
-        display: flex;
-        flex-direction: column;
-       }
-       #prodetails  {
-        width: 100%;
-        margin-right: 0px;
-       }
-       #prodetails .second-pro-image {
-        width: 100%;
-        margin-right: 0px;
-       }
-       #prodetails .second-pro-details {
-        width: 100%;
-       }
+    display: flex;
+    flex-direction: column;
+    }
+    #prodetails  {
+    width: 100%;
+    margin-right: 0px;
+    }
+    #prodetails .second-pro-image {
+    width: 100%;
+    margin-right: 0px;
+    }
+    #prodetails .second-pro-details {
+    width: 100%;
+    }
 
        
     /* third product */
@@ -1713,20 +1713,20 @@ footer .copyright {
    
     /* fourth product */
     #prodetails {
-        display: flex;
-        flex-direction: column;
-       }
-       #prodetails  {
-        width: 100%;
-        margin-right: 0px;
-       }
-       #prodetails .fourth-pro-image {
-        width: 100%;
-        margin-right: 0px;
-       }
-       #prodetails .fourth-pro-details {
-        width: 100%;
-       }
+    display: flex;
+    flex-direction: column;
+    }
+    #prodetails  {
+    width: 100%;
+    margin-right: 0px;
+    }
+    #prodetails .fourth-pro-image {
+    width: 100%;
+    margin-right: 0px;
+    }
+    #prodetails .fourth-pro-details {
+    width: 100%;
+    }
 
        
     /* fifth product */
@@ -1748,54 +1748,54 @@ footer .copyright {
       
     /* six product */
     #prodetails {
-        display: flex;
-        flex-direction: column;
-       }
-       #prodetails  {
-        width: 100%;
-        margin-right: 0px;
-       }
-       #prodetails .six-pro-image {
-        width: 100%;
-        margin-right: 0px;
-       }
-       #prodetails .six-pro-details {
-        width: 100%;
-       }
+    display: flex;
+    flex-direction: column;
+    }
+    #prodetails  {
+    width: 100%;
+    margin-right: 0px;
+    }
+    #prodetails .six-pro-image {
+    width: 100%;
+    margin-right: 0px;
+    }
+    #prodetails .six-pro-details {
+    width: 100%;
+    }
       
     /* seven  product */
     #prodetails {
-        display: flex;
-        flex-direction: column;
-       }
-       #prodetails  {
-        width: 100%;
-        margin-right: 0px;
-       }
-       #prodetails .seven-pro-image {
-        width: 100%;
-        margin-right: 0px;
-       }
-       #prodetails .seven-pro-details {
-        width: 100%;
-       }
+    display: flex;
+    flex-direction: column;
+    }
+    #prodetails  {
+    width: 100%;
+    margin-right: 0px;
+    }
+    #prodetails .seven-pro-image {
+    width: 100%;
+    margin-right: 0px;
+    }
+    #prodetails .seven-pro-details {
+    width: 100%;
+    }
       
     /* eight product */
     #prodetails {
-        display: flex;
-        flex-direction: column;
-       }
-       #prodetails  {
-        width: 100%;
-        margin-right: 0px;
-       }
-       #prodetails .eight-pro-image {
-        width: 100%;
-        margin-right: 0px;
-       }
-       #prodetails .eight-pro-details {
-        width: 100%;
-       }
+    display: flex;
+    flex-direction: column;
+    }
+    #prodetails  {
+    width: 100%;
+    margin-right: 0px;
+    }
+    #prodetails .eight-pro-image {
+     width: 100%;
+    margin-right: 0px;
+    }
+    #prodetails .eight-pro-details {
+    width: 100%;
+    }
        
     /* nine product */
    #prodetails {
@@ -1816,20 +1816,20 @@ footer .copyright {
    
     /* ten product */
     #prodetails {
-        display: flex;
-        flex-direction: column;
-       }
-       #prodetails  {
-        width: 100%;
-        margin-right: 0px;
-       }
-       #prodetails .ten-pro-image {
-        width: 100%;
-        margin-right: 0px;
-       }
-       #prodetails .ten-pro-details {
-        width: 100%;
-       }
+    display: flex;
+    flex-direction: column;
+    }
+    #prodetails  {
+     width: 100%;
+    margin-right: 0px;
+    }
+    #prodetails .ten-pro-image {
+    width: 100%;
+    margin-right: 0px;
+    }
+    #prodetails .ten-pro-details {
+    width: 100%;
+    }
        
     /* eleven  product */
    #prodetails {
@@ -1850,178 +1850,158 @@ footer .copyright {
    
     /* twevel  product */
     #prodetails {
-        display: flex;
-        flex-direction: column;
-       }
-       #prodetails  {
-        width: 100%;
-        margin-right: 0px;
-       }
-       #prodetails .twevel-pro-image {
-        width: 100%;
-        margin-right: 0px;
-       }
-       #prodetails .twevel-pro-details {
-        width: 100%;
+    display: flex;
+    flex-direction: column;
+    }
+    #prodetails  {
+    width: 100%;
+    margin-right: 0px;
+    }
+    #prodetails .twevel-pro-image {
+    width: 100%;
+    margin-right: 0px;
+    }
+    #prodetails .twevel-pro-details {
+    width: 100%;
     }
        
-     /* thirteen product */
-     #prodetails {
-     display: flex;
-     flex-direction: column;
-     }
-     #prodetails  {
-     width: 100%;
-     margin-right: 0px;
-     }
-     #prodetails .thirteen-pro-image {
-      width: 100%;
-     margin-right: 0px;
+    /* thirteen product */
+    #prodetails {
+    display: flex;
+    flex-direction: column;
     }
-     #prodetails .thirteen-pro-details {
-     width: 100%;
+    #prodetails  {
+    width: 100%;
+    margin-right: 0px;
+    }
+    #prodetails .thirteen-pro-image {
+    width: 100%;
+    margin-right: 0px;
+    }
+    #prodetails .thirteen-pro-details {
+    width: 100%;
     }
    
     /* fourteen product */
-     #prodetails {
-        display: flex;
-        flex-direction: column;
-       }
-       #prodetails  {
-        width: 100%;
-        margin-right: 0px;
-       }
-       #prodetails .fourteen-pro-image {
-        width: 100%;
-        margin-right: 0px;
-       }
-       #prodetails .fourteen-pro-details {
-        width: 100%;
+    #prodetails {
+    display: flex;
+    flex-direction: column;
+    }
+    #prodetails  {
+    width: 100%;
+    margin-right: 0px;
+    }
+    #prodetails .fourteen-pro-image {
+    width: 100%;
+    margin-right: 0px;
+    }
+    #prodetails .fourteen-pro-details {
+    width: 100%;
     }
         
     /* fifteen product */
-      #prodetails {
-       display: flex;
-       flex-direction: column;
-      }
-      #prodetails  {
-       width: 100%;
-       margin-right: 0px;
-      }
-      #prodetails .fifteen-pro-image {
-       width: 100%;
-       margin-right: 0px;
-      }
-      #prodetails .fifteen-pro-details {
-       width: 100%;
+    #prodetails {
+    display: flex;
+    flex-direction: column;
     }
-      
-    /* sixteen product */
-     #prodetails {
-     display: flex;
-     flex-direction: column;
-     }
-     #prodetails  {
-        width: 100%;
-     margin-right: 0px;
-     }
-     #prodetails .sixteen-pro-image {
-     width: 100%;
-     margin-right: 0px;
-     }
-     #prodetails .sixteen-pro-details {
-     width: 100%;
-    };
-
-     
+    #prodetails  {
+    width: 100%;
+    margin-right: 0px;
+    }
+    #prodetails .fifteen-pro-image {
+    width: 100%;
+    margin-right: 0px;
+    }
+    #prodetails .fifteen-pro-details {
+    width: 100%;
+    }
+    
     /* seventeen product */
-     #prodetails {
-        display: flex;
-        flex-direction: column;
-        }
-        #prodetails  {
-           width: 100%;
-        margin-right: 0px;
-       }
-        #prodetails .sixteen-pro-image {
-        width: 100%;
-        margin-right: 0px;
-       }
-        #prodetails .sixteen-pro-details {
-        width: 100%;
-    };
+    #prodetails {
+    display: flex;
+    flex-direction: column;
+    }
+    #prodetails  {
+    width: 100%;
+    margin-right: 0px;
+    }
+    #prodetails .seventeen-pro-image {
+    width: 100%;
+    margin-right: 0px;
+    }
+    #prodetails .seventeen-pro-details {
+    width: 100%;
+    }
 
         
     /* eighteen product */
-     #prodetails {
-        display: flex;
-        flex-direction: column;
-        }
-        #prodetails  {
-           width: 100%;
-        margin-right: 0px;
-       }
-        #prodetails .sixteen-pro-image {
-        width: 100%;
-        margin-right: 0px;
-       }
-        #prodetails .sixteen-pro-details {
-        width: 100%;
-    };
+    #prodetails {
+    display: flex;
+    flex-direction: column;
+    }
+    #prodetails  {
+    width: 100%;
+    margin-right: 0px;
+    }
+    #prodetails .eighteen-pro-image {
+    width: 100%;
+    margin-right: 0px;
+    }
+    #prodetails .eighteen-pro-details {
+    width: 100%;
+    }
 
         
     /* nineteen product */
-     #prodetails {
-        display: flex;
-        flex-direction: column;
-        }
-        #prodetails  {
-           width: 100%;
-        margin-right: 0px;
-       }
-        #prodetails .sixteen-pro-image {
-        width: 100%;
-        margin-right: 0px;
-       }
-        #prodetails .sixteen-pro-details {
-        width: 100%;
-    };
+    #prodetails {
+    display: flex;
+    flex-direction: column;
+    }
+    #prodetails  {
+    width: 100%;
+    margin-right: 0px;
+    }
+    #prodetails .nineteen-pro-image {
+    width: 100%;
+    margin-right: 0px;
+    }
+    #prodetails .nineteen-pro-details {
+    width: 100%;
+    }
 
         
-     /* twenty product */
-     #prodetails {
-        display: flex;
-        flex-direction: column;
-        }
-        #prodetails  {
-           width: 100%;
-        margin-right: 0px;
-       }
-        #prodetails .sixteen-pro-image {
-        width: 100%;
-        margin-right: 0px;
-       }
-        #prodetails .sixteen-pro-details {
-        width: 100%;
-    };
+    /* twenty product */
+    #prodetails {
+    display: flex;
+    flex-direction: column;
+    }
+    #prodetails  {
+    width: 100%;
+    margin-right: 0px;
+    }
+    #prodetails .twenty-pro-image {
+    width: 100%;
+    margin-right: 0px;
+    }
+    #prodetails .twenty-pro-details {
+    width: 100%;
+    }
 
         
-     /* twentyone product */
-     #prodetails {
-        display: flex;
-        flex-direction: column;
-        }
-        #prodetails  {
-           width: 100%;
-        margin-right: 0px;
-       }
-        #prodetails .sixteen-pro-image {
-        width: 100%;
-        margin-right: 0px;
-       }
-        #prodetails .sixteen-pro-details {
-        width: 100%;
-    };
-   
-    
+    /* twentyone product */
+    #prodetails {
+    display: flex;
+    flex-direction: column;
+    }
+    #prodetails  {
+    width: 100%;
+    margin-right: 0px;
+    }
+    #prodetails .twentyone-pro-image {
+    width: 100%;
+    margin-right: 0px;
+    }
+    #prodetails .twentyone-pro-details {
+    width: 100%;
+    }  
 }
